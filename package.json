@@ -1,6 +1,6 @@
 {
-  "name": "react-devextreme-sample-bar-chart",
-  "description": "react-devextreme-sample-bar-chart",
+  "name": "react-ticket-sample-bar-chart",
+  "description": "react-ticket-sample-bar-chart",
   "dependencies": {
     "@devextreme/runtime": "2.3.14",
     "@emotion/react": "11.8.2",
@@ -8,7 +8,7 @@
     "@mui/material": "5.5.1",
     "devexpress-diagram": "2.1.45",
     "devexpress-gantt": "4.0.3",
-    "devextreme": "21.2.5",
+    "devextreme": "21.2.6",
     "devextreme-quill": "1.5.11",
     "devextreme-react": "21.2.5",
     "es6-object-assign": "1.1.0",
